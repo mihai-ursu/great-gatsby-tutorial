@@ -16,10 +16,10 @@
   "dependencies": {
     "@contentful/rich-text-react-renderer": "^13.4.0",
     "env-cmd": "^10.1.0",
-    "gatsby": "^2.19.49",
+    "gatsby": "^5.3.3",
     "gatsby-plugin-playground": "^1.0.6",
     "gatsby-plugin-react-helmet": "^3.2.0",
-    "gatsby-plugin-sass": "^2.1.30",
+    "gatsby-plugin-sass": "^6.3.1",
     "gatsby-plugin-sharp": "^2.4.13",
     "gatsby-remark-images": "^3.1.50",
     "gatsby-remark-relative-images": "^0.3.0",
